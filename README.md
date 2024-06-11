@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# DevJourney
 
-## Getting Started
+## DevJourney project 시작전 고민
+개발자로서 성장하고 배워가는 과정을 기록하려고 함.
+블로그와 다른점이 있을지는 고민이 필요함.
+디자인도 마음대로고 다 마음대로 해볼생각.
+주기적업데이트가 가능할지도 모르겟고..
+꾸준하게 하고싶은데 그기준을 매일, 주 몇회이상, 월 몇회이상등을 정하지 못함.
 
-First, run the development server:
+## 왜 깃허브에 기록하려는지, 그리고 이것은 이 프로젝트는 블로그는 아니다.
+도움은 될거같은데 velog에 가끔 글을 남기기도하지만 깃에 기록하려고하는이유는
+velog같은 블로그는 코드를 남기는데 부분적이라 한계가 있음. 실제동작을 보여주려면 영상찍고, 사진찍고 귀찮음.
+그래서 그냥 깃에 코드 쓰고 로컬에서 실행시켜 보는 방식을이용해보고자 함.
+누구나 볼수 있는 코드는 그냥 깃을 오픈하고, 깃허브들어와서 DevJourney 프로젝트에서
+"." 누르면 바로 web VSCODE로 코드 볼수 있으니깐! 이게 더 나은 방식같다.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 이 글을 쓰고 지금은
+2024년 06월 11일 이고,
+반도체연구원에서 전향한 비전공 개발자이며,
+프론트엔드 웹 개발자이며,
+개발자로서 회사에서 근무를 시작한지는 2022년 04년 25일 부터 약 2년 1개월을 좀 넘긴 시점이다.
+Typescript는 필수적으로 사용하며 Next, React를 주로 다룬다.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2024년 10월 이 프로젝트는 잘 굴러가고 있을 예정이다.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<img width="1440" alt="image" src="https://github.com/hinyc/DevJourney/assets/87487161/4c5de1cb-f946-4a32-a107-ec7d02525a7a">
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
